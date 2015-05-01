@@ -7,6 +7,8 @@
 
 _OBJC_CLASS_$_CardIOCreditCardInfo
 _OBJC_METACLASS_$_CardIOCreditCardInfo
+_OBJC_CLASS_$_CardIODataEntryViewController
+_OBJC_METACLASS_$_CardIODataEntryViewController
 _OBJC_CLASS_$_CardIOPaymentViewController
 _OBJC_METACLASS_$_CardIOPaymentViewController
 _OBJC_CLASS_$_CardIOView

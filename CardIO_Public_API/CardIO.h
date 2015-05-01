@@ -6,6 +6,7 @@
 // All-in-one header file for card.io sdk.
 #import "CardIOCreditCardInfo.h"
 #import "CardIODetectionMode.h"
+#import "CardIODataEntryViewController.h"
 #import "CardIOView.h"
 #import "CardIOViewDelegate.h"
 #import "CardIOPaymentViewController.h"
